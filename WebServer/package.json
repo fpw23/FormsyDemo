@@ -1,0 +1,18 @@
+{
+  "name": "formsy-demo",
+  "version": "1.0.0",
+  "description": "Demo of using react formsy",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor server.js"
+  },
+  "author": "Frank Wisniewski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "supervisor": "0.12.0"
+  }
+}
